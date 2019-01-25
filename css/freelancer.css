@@ -8,7 +8,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat'; }
+  font-family: 'Merriweather'; }
 
 hr.star-light,
 hr.star-dark {
@@ -82,7 +82,7 @@ section {
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-weight: 700;
-  font-family: 'Montserrat'; }
+  font-family: 'Merriweather'; }
   #mainNav .navbar-brand {
     color: #fff; }
   #mainNav .navbar-nav {
